@@ -1,5 +1,5 @@
 # Car-Rental-Prices-Analysis
 
  This was an individual project from a data science course at NJIT(DS340). 
- I was given a data set and task including data cleaning, EDA to answer business questions, regression analysis and recommendation questions. 
+ I was provided with a dataset and tasked with performing data cleaning, exploratory data analysis, linear regression, and answering business-related questions. 
  
